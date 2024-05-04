@@ -10,3 +10,11 @@ Yes, Markdown has code blocks too, here's one in my favorite language JavaScript
 ``` javascript
 console.log("Hello World")
 ```
+
+## Task list
+- [ x ] Go in my pull request.
+- [ x ] Click on the Files changed tab.
+- [ x ] Look for index.md.
+- [ x ] Click on the ... and select edit file.
+- [ x ] Edit the file.
+- [ x ] Commit changes and add a meaningful commit message.
